@@ -1,0 +1,12 @@
+Create a lubrary management system.
+Class: Book
+ 	Genre
+	Bookorder
+	oRDER
+	customer
+
+view list of the book with genre info
+order books
+invoice view
+profile view
+order details

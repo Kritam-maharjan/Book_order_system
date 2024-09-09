@@ -1,0 +1,20 @@
+JAva
+Public- access modifier 
+Static- type 
+void- Return type
+main- function name 
+String[]- Datatype
+[]- parameter
+args- varaiable
+
+
+Array :  Static size (must give size during initialization), takes primitive datatype, fast, optimised
+eg: int myarr[] = new int[3];
+
+Array-lists : Dynamic size (can dynamically change size), take non-primitive datatype, not optimised, slow
+eg: Arraylist(Datatype) myarr = new Arraylist(DataType)[];
+Datatype= Integer
+
+
+Inheritance 
+super : used to change the value in the parent class, praents ma use garyobhane gparents ko property change garna milcha.
